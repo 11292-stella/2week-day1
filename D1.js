@@ -68,7 +68,7 @@ console.log(myAge)
 const myAge1 = 20 //segnato 20
 console.log(myAge1)
 
-myAge1 = 30 // segnato come errore
+// myAge1 = 30 // segnato come errore
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
